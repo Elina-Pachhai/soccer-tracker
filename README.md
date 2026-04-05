@@ -48,6 +48,3 @@ src/
 └── Player.java  — Player model with stats tracking
 ```
 
-## Course
-
-CPSC 233 — Group Project, Winter 2024, University of Calgary
