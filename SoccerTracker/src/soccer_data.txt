@@ -1,0 +1,61 @@
+BALANCE|400
+TEAM|Manchester City|false|
+PLAYER|Erling Haaland|9|Forward|27|5|6|2|0
+PLAYER|Phil Foden|47|Forward|19|8|0|2|0
+PLAYER|Kevin De Bruyne|17|Midfielder|2|10|0|3|0
+PLAYER|Bernardo Silva|20|Midfielder|8|8|0|4|0
+PLAYER|Rodri|16|Midfielder|8|11|1|8|0
+TEAM|Arsenal|false|
+PLAYER|Bukayo Saka|7|Forward|16|9|0|2|0
+PLAYER|Leandro Trossard|19|Forward|14|7|0|2|0
+PLAYER|Kai Havertz|29|Forward|13|8|0|3|0
+PLAYER|Gabriel Martinelli|11|Forward|10|9|0|3|0
+PLAYER|Martin Odegaard|8|Midfielder|8|10|0|4|0
+TEAM|Liverpool|false|
+PLAYER|Mohamed Salah|11|Forward|18|10|0|1|0
+PLAYER|Luis Diaz|7|Forward|13|5|0|2|0
+PLAYER|Darwin Nunez|9|Forward|11|5|1|4|0
+PLAYER|Dominik Szoboszlai|8|Midfielder|8|6|0|5|0
+PLAYER|Trent Alexander-Arnold|66|Defender|4|9|0|3|0
+TEAM|Real Madrid|false|
+PLAYER|Vinicius Jr|7|Forward|24|9|1|5|0
+PLAYER|Kylian Mbappe|9|Forward|33|8|0|3|0
+PLAYER|Jude Bellingham|5|Midfielder|23|13|0|6|0
+PLAYER|Rodrygo|11|Forward|14|11|0|2|0
+PLAYER|Luka Modric|10|Midfielder|5|8|0|4|0
+TEAM|FC Barcelona|false|
+PLAYER|Robert Lewandowski|9|Forward|26|5|0|3|0
+PLAYER|Raphinha|11|Forward|27|12|0|4|0
+PLAYER|Pedri|8|Midfielder|5|10|0|6|0
+PLAYER|Gavi|6|Midfielder|3|7|1|10|0
+PLAYER|Ferran Torres|7|Forward|10|6|0|2|0
+TEAM|Bayern Munich|false|
+PLAYER|Harry Kane|9|Forward|36|8|0|2|0
+PLAYER|Leroy Sane|10|Forward|13|10|0|3|0
+PLAYER|Jamal Musiala|42|Midfielder|12|12|0|2|0
+PLAYER|Thomas Muller|25|Midfielder|5|11|0|3|0
+PLAYER|Serge Gnabry|22|Forward|8|7|0|2|0
+TEAM|England|true|England
+PLAYER|Harry Kane|9|Forward|21|14|0|2|0
+PLAYER|Bukayo Saka|7|Forward|14|12|0|1|0
+PLAYER|Jude Bellingham|10|Midfielder|13|9|0|3|0
+PLAYER|Phil Foden|11|Forward|10|7|0|1|0
+PLAYER|Declan Rice|4|Midfielder|4|5|0|6|0
+TEAM|Brazil|true|Brazil
+PLAYER|Vinicius Jr|7|Forward|14|10|0|3|0
+PLAYER|Neymar|10|Forward|18|9|0|4|0
+PLAYER|Rodrygo|11|Forward|7|5|0|1|0
+PLAYER|Richarlison|9|Forward|19|5|0|3|0
+PLAYER|Bruno Guimaraes|14|Midfielder|4|6|0|4|0
+TEAM|France|true|France
+PLAYER|Kylian Mbappe|10|Forward|24|15|0|2|0
+PLAYER|Antoine Griezmann|7|Forward|12|10|0|3|0
+PLAYER|Ousmane Dembele|11|Forward|8|9|1|4|0
+PLAYER|Olivier Giroud|9|Forward|7|3|0|2|0
+PLAYER|Aurelien Tchouameni|8|Midfielder|3|4|0|5|0
+TEAM|Argentina|true|Argentina
+PLAYER|Lionel Messi|10|Forward|18|16|0|2|0
+PLAYER|Julian Alvarez|9|Forward|12|8|0|2|0
+PLAYER|Angel Di Maria|11|Forward|8|9|0|3|0
+PLAYER|Rodrigo De Paul|5|Midfielder|5|8|0|6|0
+PLAYER|Enzo Fernandez|8|Midfielder|4|7|0|4|0
